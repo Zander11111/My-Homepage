@@ -1,0 +1,1 @@
+Simple website I made. I want to learn more HTML so I had AI help me.
